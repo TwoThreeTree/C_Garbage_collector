@@ -1,0 +1,13 @@
+
+Garbage collector statistics:
+objects: 1   bytes in use: 1040   freed: 523120
+
+
+Garbage collector statistics:
+objects: 1   bytes in use: 1040   freed: 523120
+
+
+Garbage collector statistics:
+objects: 1   bytes in use: 1040   freed: 523120
+
+0.000000

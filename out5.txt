@@ -1,0 +1,36 @@
+
+Garbage collector statistics:
+objects: 2056   bytes in use: 295232   freed: 228816
+
+before: 3.14159
+after: 2.71719
+
+Garbage collector statistics:
+objects: 366   bytes in use: 99552   freed: 424544
+
+
+Garbage collector statistics:
+objects: 2056   bytes in use: 295232   freed: 228816
+
+before: 3.14159
+after: 2.71719
+
+Garbage collector statistics:
+objects: 366   bytes in use: 99552   freed: 424544
+
+
+Garbage collector statistics:
+objects: 2056   bytes in use: 295232   freed: 228816
+
+before: 3.14159
+after: 2.71719
+
+Garbage collector statistics:
+objects: 366   bytes in use: 99552   freed: 424544
+
+
+Garbage collector statistics:
+objects: 2056   bytes in use: 295232   freed: 228816
+
+before: 3.14159
+after: 2.71719
